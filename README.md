@@ -1,22 +1,22 @@
-# Привет, я Вадим 👋 
-### Frontend-разработчик, который любит превращать сложные идеи в простые и удобные интерфейсы.
+# Hi, I'm Vadym 👋
+
+Frontend Developer passionate about turning complex ideas into simple, intuitive, and engaging user interfaces.
 
 ---
 
-## 🛠 Мой стек:
-- **Языки:** JavaScript С++ Python
-- **Фреймворки/Библиотеки:** React, TailwindCSS
+### 🛠 Tech Stack
+- **Languages:** JavaScript, C++, Python
+- **Frameworks & Libraries:** React, Tailwind CSS
 
 ---
 
-## 🚀 Чем я сейчас занят:
-- 🔭 **Разрабатываю:**
-- [OnlineCompiler](https://github.com/vadymzelenko/OnlineCompiler) — PWA-песочницу для веб-разработки с ИИ-ассистентом (сплитскрин, терминал, live-preview).
-- [3d game "Рекурсия"](https://vadymzelenko.github.io/3d-game-recursion) - 3d игра в браузере, детектив о советских лабораториях.
+### 🚀 What I'm Currently Working On
+- 🔭 **OnlineCompiler** — A PWA web development sandbox featuring an integrated AI assistant, split-screen editor, embedded terminal, and live preview.
+- 🎮 **Recursion** — A 3D browser-based detective game set inside mysterious Soviet laboratories.
 
 ---
 
-## 📫 Как со мной связаться:
-- 🌐 **Портфолио:** [about-me-pi-five.vercel.app](https://about-me-pi-five.vercel.app/)
-- 💼 **LinkedIn:** [vadym-zelenko](https://www.linkedin.com/in/vadym-zelenko-33298a26b/?isSelfProfile=true)
+### 📫 Connect With Me
+- 🌐 **Portfolio:** [about-me-pi-five.vercel.app](https://about-me-pi-five.vercel.app)
+- 💼 **LinkedIn:** [vadym-zelenko](https://www.linkedin.com/in/vadym-zelenko)
 - ✈️ **Telegram:** [@vzbbme](https://t.me/vzbbme)
